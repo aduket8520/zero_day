@@ -1,10 +1,5 @@
-# Heading
+# heading
 
-## Heading2
+##Heading
 
-*italic*
-
-**bold**
-
-<p> this is a code block </p>
-
+*italics*
